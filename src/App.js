@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import { NewComp } from "./component/newcomp";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
         <div>test main branch</div>
+        <NewComp />
       </header>
     </div>
   );
