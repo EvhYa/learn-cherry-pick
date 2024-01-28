@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { NewComp } from "./component/newcomp";
+import { NewComponV2 } from "./component/newcomp2";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <div>test main branch</div>
         <div>update logic in old component</div>
         <NewComp />
+        <NewComponV2 />
       </header>
     </div>
   );
