@@ -21,6 +21,7 @@ function App() {
           Learn React
         </a>
         <div>test main branch</div>
+        <div>update logic in old component</div>
         <NewComp />
         <NewComponV2 />
         <Comp5 />
