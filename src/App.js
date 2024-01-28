@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import { NewComp } from "./component/newcomp";
 import { NewComponV2 } from "./component/newcomp2";
+import { Comp5 } from "./component/CompBr5";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <div>test main branch</div>
         <NewComp />
         <NewComponV2 />
+        <Comp5 />
       </header>
     </div>
   );
