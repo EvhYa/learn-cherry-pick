@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <div>test main branch</div>
+        <div>update logic in old component</div>
         <NewComp />
       </header>
     </div>
