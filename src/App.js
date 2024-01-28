@@ -3,7 +3,6 @@ import "./App.css";
 import { NewComp } from "./component/newcomp";
 import { NewComponV2 } from "./component/newcomp2";
 import { Comp5 } from "./component/CompBr5";
-import { NewComponV2 } from "./component/newcomp2";
 
 function App() {
   return (
