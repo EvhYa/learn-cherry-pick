@@ -1,5 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
+import { NewComp } from "./component/newcomp";
+import { NewComponV2 } from "./component/newcomp2";
+import { Comp5 } from "./component/CompBr5";
+import { NewComponV2 } from "./component/newcomp2";
 
 function App() {
   return (
@@ -17,8 +21,11 @@ function App() {
         >
           Learn React
         </a>
-        <div>update main branch</div>
-        <div>add new logic branch 2</div>
+        <div>test main branch</div>
+        <NewComp />
+        <NewComponV2 />
+        <Comp5 />
+        <NewComponV2 />
       </header>
     </div>
   );
